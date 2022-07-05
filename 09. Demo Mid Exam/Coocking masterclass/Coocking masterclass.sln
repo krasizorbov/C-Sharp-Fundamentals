@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coocking masterclass", "Coocking masterclass\Coocking masterclass.csproj", "{350849F9-03EB-41C2-86D3-9970DD2B0643}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{350849F9-03EB-41C2-86D3-9970DD2B0643}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{350849F9-03EB-41C2-86D3-9970DD2B0643}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{350849F9-03EB-41C2-86D3-9970DD2B0643}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{350849F9-03EB-41C2-86D3-9970DD2B0643}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21BE15A3-247C-4DFD-B4AA-97B2975444FD}
+	EndGlobalSection
+EndGlobal

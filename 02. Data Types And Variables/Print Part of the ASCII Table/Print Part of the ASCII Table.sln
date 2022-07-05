@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Print Part of the ASCII Table", "Print Part of the ASCII Table\Print Part of the ASCII Table.csproj", "{70EE044C-167B-4465-B8E3-148064F19195}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70EE044C-167B-4465-B8E3-148064F19195}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70EE044C-167B-4465-B8E3-148064F19195}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70EE044C-167B-4465-B8E3-148064F19195}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70EE044C-167B-4465-B8E3-148064F19195}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {196558E8-FFBD-4F20-9762-95412D111074}
+	EndGlobalSection
+EndGlobal
